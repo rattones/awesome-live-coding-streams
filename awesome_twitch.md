@@ -25,6 +25,8 @@ https://www.twitch.tv/danielhe4rt
 
 https://www.twitch.tv/paulo_kiitasu
 
+https://twitch.tv/rattones
+
 
 # Python
 
